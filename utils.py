@@ -1,5 +1,3 @@
-# app/utils.py
-
 from twilio.rest import Client
 
 # Twilio API setup (store your credentials in a config file or environment variables)
