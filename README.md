@@ -82,7 +82,7 @@ ALERT_PHONE_NUMBER=your_phone_no
 
 4. Run the App
 ```bash
-streamlit run app.py
+streamlit run  drone_classifier.py
 
 ```
 
