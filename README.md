@@ -86,24 +86,18 @@ streamlit run app.py
 
 ```
 
-📬 Alerts
+## 📬 Alerts
 If a drone is classified as suspicious, an SMS alert is automatically sent using Twilio.
 
 ## 📈 Sample Features Used
-Latitude, Longitude
 
-Speed, Altitude
-
-Distance to restricted area
-
-Speed-to-Altitude Ratio
-
-Proximity Score
-
-Altitude-to-Distance Ratio
-
-Squared terms (non-linear modeling)
-
+- Latitude, Longitude
+- Speed, Altitude
+- Distance to restricted area
+- Speed-to-Altitude Ratio
+- Proximity Score
+- Altitude-to-Distance Ratio
+- Squared terms (non-linear modeling)
 
 ## 🛡️ Security Note
 ✅ All secrets should be stored in .env and excluded via .gitignore.
