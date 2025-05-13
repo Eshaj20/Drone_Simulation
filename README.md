@@ -2,12 +2,12 @@
 
 A real-time drone monitoring and classification system that simulates drone activity and uses a machine learning model (XGBoost) to classify whether drone behavior is **Normal** or **Suspicious** based on geospatial and flight data.
 
-![App Screenshot](Normal.png) <!-- optional -->
+![App Screenshot](Results/Normal.png) <!-- optional -->
 
 ---
 
 
-![App Screenshot](Suspicious.png) <!-- optional -->
+![App Screenshot](Results/Suspicious.png) <!-- optional -->
 
 ---
 
