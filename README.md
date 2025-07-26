@@ -40,25 +40,6 @@ A real-time drone monitoring and classification system that simulates drone acti
 - Twilio (for alerts)
 
 ---
-
-## Folder Structure
-
-```bash
-Drone_Simulation/
-│
-├── models/
-│ ├── scaler.pkl
-│ └── xgb_drone_classifier.pkl
-│
-├── utils.py
-├── app.py
-├── .env
-├── .gitignore
-└── README.md
-```
-
----
-
 ## How to Run
 
 ### 1. Clone the Repository
